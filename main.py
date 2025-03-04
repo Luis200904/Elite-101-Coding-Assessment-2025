@@ -120,3 +120,5 @@ if __name__ == "__main__":
 
     print("\nBONUS: Friendly output for the combos above")
     friendly_output(tables_data, combos)
+
+ 
